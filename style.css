@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:wght@300&display=swap');
+
+body{
+    font-family: 'Shantell Sans', cursive;
+}
+
+.container{
+    text-align: center;
+    background-image: url(images/nigeria.jpg);
+    background-size: cover;
+    padding: 150px;
+    color: #fff;
+    text-shadow: 0px 0px 6px black;
+    font-size: 20px;
+}
+
+.places-img1{
+    width: 200px;
+    border-radius: 50%;
+}
+
+.places-img2{
+    width: 150px;
+    border-radius: 50%;
+}
+
+
+.places-img3{
+    width: 110px;
+    border-radius: 50%;
+}
+
+.pfp{
+    width: 150px;
+    border-radius: 50%;
+    padding: 20px;
+}
+
+
+
+
+#special{
+    background-color: #10be2d9f;
+    padding: 10px;
+}
+
+.section2{
+    text-align: center;
+}
+
+.items{
+    display: flex;
+    justify-content: space-between;
+    padding: 70px;
+    background-color: rgba(135, 233, 135, 0.253);
+}
+
+.zuma,.olumo,.jollof{
+    margin: 10px 20px;
+}
+
+.section3{
+   width: 700px;
+   background-color: rgba(127, 255, 212, 0.384);
+   margin: 10px 0;
+   display: flex;
+   justify-content: center;
+}
+
+.text{
+    text-align: center;
+    padding: 20px;
+}
+
+.box{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
